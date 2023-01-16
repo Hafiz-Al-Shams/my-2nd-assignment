@@ -1,0 +1,132 @@
+/* header style starts */
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+nav a {
+    text-decoration: none;
+    margin-right: 50px;
+    color: #131313;
+}
+
+.g3 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.home {
+    color: #424242;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+header {
+    background-color: rgba(255, 144, 14, 0.1);
+}
+
+.header-texts {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 329px 47px;
+    padding-bottom: 40px;
+}
+
+.h1 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 65px;
+    text-align: center;
+    margin: 0 300px 0;
+    color: #131313;
+}
+
+.header-paragraph {
+    width: 868px;
+    height: 52px;
+    left: 526px;
+    top: 379px;
+    color: #727272;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.button-1 {
+    border: 0;
+    border-radius: 5px;
+    margin-bottom: 44px;
+    color: #FFFFFF;
+    font-size: large;
+    background: #FF900E;
+    width: 160px;
+    height: 60px;
+}
+
+.header-image {
+    width: 1500px;
+}
+
+/* header style ends */
+
+/* section-1 style starts */
+.section-1 {
+    display: flex;
+}
+
+.Four-images-container {
+    display: grid;
+    grid-template-columns: repeat(2, 370px);
+    margin-left: 300px;
+}
+
+.quick-list-of {
+    margin-top: 200px;
+}
+
+.quick-list {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 45px;
+    color: #727272;
+}
+
+.of-our {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    color: #131313;
+}
+
+.features {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    color: #FF900E;
+}
+
+.quick-list-paragraph {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #727272;
+    margin-right: 200px;
+}
+/* section-1 style ends */
