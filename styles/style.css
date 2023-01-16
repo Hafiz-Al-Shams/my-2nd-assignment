@@ -145,6 +145,7 @@ header {
 
 .Fywle {
     border-left: 6px solid #FF900E;
+    padding-left: 25px;
     font-family: 'Work Sans';
     font-style: normal;
     font-weight: 700;
@@ -266,7 +267,7 @@ header {
 /* section-5 style starts */
 .section-5-texts {
     margin-top: 200px;
-    margin-bottom: 100px;
+    margin-bottom: 80px;
 }
 
 .spon {
@@ -294,6 +295,25 @@ header {
     display: flex;
     justify-content: space-evenly;
 }
+
 /* section-5 style ends */
+
 /* footer style starts */
+footer {
+    background-color: #FFF4E7;
+}
+
+.copyright {
+    margin-top: 130px;
+    margin-left: 550px;
+    margin-right: 500px;
+    margin-bottom: 200px;
+    padding: 1.9em;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    color: #424242;
+}
 /* footer style ends */
