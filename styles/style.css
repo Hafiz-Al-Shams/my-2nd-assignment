@@ -129,4 +129,171 @@ header {
     color: #727272;
     margin-right: 200px;
 }
+
 /* section-1 style ends */
+
+/* section-2 style starts */
+.section-2 {
+    display: flex;
+    margin-top: 130px;
+    margin-right: 120px;
+}
+
+.section-2-image {
+    width: 30%;
+}
+
+.Fywle {
+    border-left: 6px solid #FF900E;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #131313;
+}
+
+.Fywle-paragraph {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #727272;
+    margin-bottom: 170px;
+}
+
+.section-2-heading {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #131313;
+}
+
+.section-2-paragraph {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #727272;
+}
+
+.section-2-texts {
+    margin-left: 350px;
+    margin-right: 300px;
+}
+
+.button-2 {
+    width: 342px;
+    height: 200px;
+    left: 880px;
+    top: 3104px;
+    background: #FF900E;
+    border: 0;
+    border-radius: 8px;
+    font-family: 'Work Sans';
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.tenY {
+    font-weight: 700;
+    font-size: 60px;
+}
+
+.exp {
+    font-weight: 500;
+    font-size: 25px;
+}
+
+/* section-2 style ends */
+
+/* section-3 style starts */
+.some-facts {
+    margin-left: 280px;
+    margin-right: 1000px;
+    margin-bottom: 130px;
+}
+
+.SF {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    color: #131313;
+}
+
+.SF-paragraph {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #727272;
+}
+
+/* section-3 style ends */
+
+/* section-4 style starts */
+.four-icons {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.icon {
+    text-align: center;
+    border: 2px solid #FF900E;
+    border-radius: 8px;
+    padding: 30px;
+}
+
+.hd {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 45px;
+    color: #424242;
+}
+
+.pr {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #727272;
+}
+
+/* section-4 style ends */
+
+/* section-5 style starts */
+.section-5-texts {
+    margin-top: 200px;
+    margin-bottom: 100px;
+}
+
+.spon {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    color: #131313;
+    margin-left: 730px;
+    margin-right: 730px;
+}
+
+.spon-paragraph {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    color: #727272;
+    margin-left: 600px;
+    margin-right: 600px;
+}
+
+.section5-images {
+    display: flex;
+    justify-content: space-evenly;
+}
+/* section-5 style ends */
+/* footer style starts */
+/* footer style ends */
